@@ -2,7 +2,9 @@
 Awesome code-server 
 
 ### Usage
-`firacode-full.js` is a UserScript using GreaseMonkey.  
+`type.js` is a UserScript using GreaseMonkey.  
+`FiraCode.js` add FiraCode font.  
+`Iosevka.js` add Iosevka font.   
 `etc` folder is your cros etc folder.  
 `code-server` is where you place your code-server installed folder.
 
