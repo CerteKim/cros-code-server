@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Even Better Code-Server
+// @name         Even Better Code-Server:Fira Code
 // @namespace    https://certe.kim/
 // @version      0.3
 // @description  Add Font Suppoprt
